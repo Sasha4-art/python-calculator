@@ -13,4 +13,5 @@ A simple command-line calculator built in Python.
 1. Make sure Python 3 is installed
 2. Run the script:
    ```bash
-   python calculator.py
+   python Calculator.py
+
